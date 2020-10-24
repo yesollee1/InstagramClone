@@ -29,6 +29,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='app/src/main/res/raw/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+GIF created with [GIPHY CAPTURE]
 
 ## Notes
 
